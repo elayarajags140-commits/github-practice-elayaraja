@@ -14,3 +14,14 @@ I want to become a job-ready full-stack developer and crack internships in top c
 
 ## Fun Fact
 I solve at least one logical problem every day to improve my thinking skills.
+
+## Goals
+- Crack internships in Kalvium partner companies
+- Strengthen my problem-solving skills
+- Build real-world full-stack projects
+
+## Skills
+- HTML
+- Basic CSS
+- C Programming
+- Java (Arrays)
